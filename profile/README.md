@@ -26,7 +26,7 @@ We strive to create a unique gaming platform where everyone can:
 ## How to Join
 
 - **Website**: coming soon
-- **Email**: contact@eveserv.pro
+- **Email**: support@eveserv.pro
 
 ## Feedback
 
